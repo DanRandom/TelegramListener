@@ -1,0 +1,10 @@
+input.txt - api_id
+	    api_hash
+
+channel.txt - Channel you want to listen to link.
+	      Person you want to receive messages from username without '@'.
+
+receiver.txt - username with '@' of the bot you want to forward messages to. Ex : @FilteringNotificationBot
+
+OCR_location.txt - When installing Tesseract copy the location where it is installing and paste the location to OCR_location.txt file. Ex : C:\Users\USER\AppData\Local\Programs\Tesseract-OCR\tesseract.exe
+		   NOTE : At the end of location path there must be tesseract.exe
